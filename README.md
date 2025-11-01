@@ -38,9 +38,11 @@ If you haven’t installed Gymnasium yet, follow this detailed step-by-step tuto
 
 ```bash
 python main.py
+```
 
 
 ### Run Demo Mode (Playback)
 
 ```bash
 python main.py --demo
+```
