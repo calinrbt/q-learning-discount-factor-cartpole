@@ -2,6 +2,11 @@
 
 This repository contains the code used to run a series of controlled experiments on how the **discount factor γ (gamma)** affects learning and convergence in **Q-Learning**, using the **CartPole-v1** environment from Gymnasium.
 
+The main goal of this tutorial is to clarify the role and impact of the discount factor γ (gamma) in Reinforcement Learning(RL). I’m using a real-world case study with Q-Learning and CartPole. I explore, through experimental and visual demonstrations, how different values of γ(gamma) can completely transform the agent’s behavior. It starts from being short-sighted and unstable, then turns into one that plans for the long term, or even becomes divergent.
+
+👉 **[Read more: Discount Factor Explained – Why Gamma (γ) Makes or Breaks Learning (Q-Learning + CartPole Case Study)](https://www.reinforcementlearningpath.com/discount-factor-explained-why-gamma-%CE%B3-makes-or-breaks-learning-q-learning-cartpole-case-study/)**
+
+
 ---
 
 ## 🎯 Goal
