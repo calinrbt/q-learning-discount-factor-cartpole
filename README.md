@@ -34,12 +34,13 @@ If you haven’t installed Gymnasium yet, follow this detailed step-by-step tuto
 👉 **[How to Install OpenAI Gymnasium in Windows and Launch Your First Python RL Environment](https://www.reinforcementlearningpath.com/how-to-install-openai-gymnasium-in-windows-and-launch-your-first-python-rl-environment/)**
 
 ## How to Run
-###Train the Agent	
+### Train the Agent	
 
 ```bash
 python main.py
 
 
-###Run Demo Mode (Playback)
+### Run Demo Mode (Playback)
+
 ```bash
 python main.py --demo
